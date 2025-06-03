@@ -6,7 +6,7 @@ package ice_1_jaskaran;
 
 /**
  *
- * @author JASKARAN SINGH
+ * @author jaskaran singh
  */
 
 
